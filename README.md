@@ -9,3 +9,6 @@ Demo Link : https://drive.google.com/file/d/1CcG02pvz--m0a5c-3WSengihh6R2bPpr/vi
 
 
 ## Phase 2
+### Draw triangular line around the echocardiogram frames
+### apply blurring techniques and morphological transformation
+### Design a contour segmentation model 
